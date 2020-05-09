@@ -1,0 +1,24 @@
+{
+  "name": "react-init",
+  "version": "1.0.0",
+  "description": "Default packages and webpack config for react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blerr511/react-init.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "config"
+  ],
+  "author": "Blerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blerr511/react-init/issues"
+  },
+  "homepage": "https://github.com/Blerr511/react-init#readme"
+}
